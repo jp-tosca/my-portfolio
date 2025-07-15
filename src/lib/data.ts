@@ -1,9 +1,9 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Juan Pablo Tosca Villanueva",
+  location: "Massachusetts, USA",
+  email: "jptosca@gmail.com",
+  github: "https://github.com/jp-tosca",
+  linkedin: "https://www.linkedin.com/in/jp-tosca/",
 };
 
 export const workExperience = [
