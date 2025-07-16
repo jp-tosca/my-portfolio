@@ -18,7 +18,7 @@ export default function GlassHeader() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-           {personalInfo.name}
+           {/* {personalInfo.name} */} <span className="text-foreground/60">jptosca.net</span>
         </motion.a>
 
         {/* Desktop Navigation */}
