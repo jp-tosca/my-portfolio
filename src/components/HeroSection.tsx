@@ -41,14 +41,14 @@ export default function HeroSection() {
               variants={childVariants}
             >
               {personalInfo.name}{" "}
-              <span className="inline-block animate-pulse">✨</span>
+              <span className="inline-block animate-pulse"></span>
             </motion.h1>
 
             <motion.p
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Software Engineer 👨‍💻
+              Senior Software Engineer | Harvard University
             </motion.p>
 
             <motion.div
