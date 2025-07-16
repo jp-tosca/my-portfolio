@@ -18,7 +18,7 @@ export default function GlassHeader() {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          ✨ {personalInfo.name}
+           {personalInfo.name}
         </motion.a>
 
         {/* Desktop Navigation */}
@@ -37,7 +37,7 @@ export default function GlassHeader() {
                 {item === "experience" && "💼 "}
                 {item === "skills" && "🛠️ "}
                 {item === "projects" && "🚀 "}
-                {item === "awards" && "🏆 "}
+                {/* {item === "awards" && "🏆 "} */}
                 {item === "education" && "🎓 "}
                 {item.charAt(0).toUpperCase() + item.slice(1)}
               </motion.a>
@@ -85,7 +85,7 @@ export default function GlassHeader() {
                     {item === "experience" && "💼 "}
                     {item === "skills" && "🛠️ "}
                     {item === "projects" && "🚀 "}
-                    {item === "awards" && "🏆 "}
+                    {/* {item === "awards" && "🏆 "} */}
                     {item === "education" && "🎓 "}
                     {item.charAt(0).toUpperCase() + item.slice(1)}
                   </motion.a>
