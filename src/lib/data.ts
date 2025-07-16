@@ -84,13 +84,11 @@ export const skills = {
   databaseAndStorage: ["PostgreSQL", "Oracle"],
   cloudAndDevOps: ["AWS", "Massachusetts Open Cloud"],
   toolsAndServices: [
-    // "Clerk (Auth)",
-    // "Sanity (CMS)",
-    // "Tinybird (analytics)",
-    // "Zod",
-    // "Sentry",
-    // "Mixpanel",
-    // "Trigger.dev",
+    "Git",
+    "SVN",
+    "GitHub",
+    "GitHub Actions",
+    "GitHub Pages",
   ],
 };
 
