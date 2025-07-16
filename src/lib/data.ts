@@ -40,6 +40,14 @@ export const workExperience = [
 
 export const education = [
   {
+    institution: "Harvard Extension School",
+    location: "Cambridge, MA",
+    degree: "Graduate Certificate in Frontend Web Development (Expected Fall 2025)",
+    period: "2023 - 2025",
+    achievements: [
+    ],
+  },
+  {
     institution: "UVM",
     location: "Mexico City, Mexico",
     degree: "MBA",
@@ -78,7 +86,7 @@ export const skills = {
   ],
   backendDevelopment: ["Nodejs", "Expressjs"],
   databaseAndStorage: ["PostgreSQL", "Drizzle (ORM)"],
-  cloudAndDevOps: ["AWS"],
+  cloudAndDevOps: ["AWS", "Massachusetts Open Cloud"],
   toolsAndServices: [
     "Clerk (Auth)",
     "Sanity (CMS)",
