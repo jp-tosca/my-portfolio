@@ -75,7 +75,7 @@ export const skills = {
   ],
   frontendDevelopment: [
     "React",
-    "Nextjs",
+    "Node",
     "Tailwind CSS",
     "HTML",
     "CSS",
