@@ -71,7 +71,9 @@ export const skills = {
     "Java",
     "Python",
     "TypeScript",
-    "JavaScript",    
+    "JavaScript",
+    "SQL",
+    "PHP", 
   ],
   frontendDevelopment: [
     "React",
